@@ -2,7 +2,7 @@
 This is a boilerplate project on Thinkful that people can use for starting a new project
 ## Set up
 The following steps are required to start a new project (NEW-PROJECT-NAME):
-1.Clone this repository to the local machine with the command 'git clone BOILERPLATE-URL NEW-PROJECT-NAME)
+1.Clone this repository to the local machine with the command 'git clone https://github.com/EmilyStacy/boilerplate.git NEW-PROJECT-NAME)
 2.`cd` into the cloned repository
 3.Make a fresh start of the git history for this project with `rm -rf .git && git init`
 4.Install the node dependencies `npm install`
